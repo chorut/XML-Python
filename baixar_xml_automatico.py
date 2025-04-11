@@ -6,7 +6,7 @@ from email.utils import parsedate_to_datetime
 from dotenv import load_dotenv
 
 # Caminho onde os arquivos XML serão salvos
-PASTA_DESTINO = r"C:\NewAge\pioneiro\nfe_entradas\importar"
+PASTA_DESTINO = r"C:\teste\teste\teste\teste"
 
 # Data do dia atual
 DATA_HOJE = datetime.now().date()
